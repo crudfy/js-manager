@@ -4,15 +4,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Author Name",
-            "email": "author@email.com",
-            "homepage": "http://author.com"
+            "name": "Mamadou Hady Barry",
+            "email": "crudfy.mhb@gmail.com",
+            "homepage": "https://github.com/crudfy/js-manager"
         }
     ],
     "homepage": "https://github.com/crudfy/js-manager",
     "keywords": ["Laravel", "JsManager"],
     "require": {
-        "illuminate/support": "~7|~8"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
